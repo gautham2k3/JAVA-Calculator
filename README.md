@@ -14,7 +14,7 @@ This version of the calculator is a great starting point for anyone looking to l
 
 ## Interface 
 
-![App Screenshot](https://github.com/gautham2k3/Java-Calculator/blob/main/Screenshot%202023-02-09%20125030.png?raw=true)
+![App Screenshot](https://raw.githubusercontent.com/gautham2k3/Calculator-JAVA/main/Samples/UI%20BASIC.png)
 
 The UI of a Java calculator can be themed dark by using a dark color palette for the background and text elements. The theme should also include a dark color for the buttons, as well as an appropriate font and font size. Additionally, the calculator should be designed to be easy-to-use and intuitive with an overall aesthetic that is consistent with the overall dark theme.
 
@@ -23,12 +23,12 @@ The UI of a Java calculator can be themed dark by using a dark color palette for
 
 ## Usage/Examples
 
-![App Working](https://github.com/gautham2k3/Java-Calculator/blob/main/Screenshot%202023-02-09%20125111.png?raw=true)
+![App Working](https://raw.githubusercontent.com/gautham2k3/Calculator-JAVA/main/Samples/Test%2001.png)
 
 
 
 ## Version
-![App Version](https://github.com/gautham2k3/Java-Calculator/blob/main/Screenshot%202023-02-09%20125132.png?raw=true)
+![App Version](https://raw.githubusercontent.com/gautham2k3/Calculator-JAVA/main/Samples/Version%20Info.png)
 ## 🔗 Links
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/gautham2k3/)
