@@ -1,5 +1,8 @@
+<h1 align="center" id="title">JAVA Calculator</h1>
 
-# Java Calculator
+<p align="center"><img src="https://socialify.git.ci/gautham2k3/JAVA-Calculator/image?font=Jost&amp;language=1&amp;name=1&amp;owner=1&amp;theme=Auto" alt="project-image"></p>
+
+<p align="center"><img src="https://img.shields.io/github/watchers/gautham2k3/JAVA-Calculator?style=social" alt="shields"></p>
 
 This is the first version of a basic Java calculator. The program is designed to allow a user to perform basic calculations such as addition, subtraction, multiplication, and division. The program is written in Java and uses a basic GUI interface. The user is able to enter two numbers and select the type of operation they would like to perform. The program then calculates the result and displays it on the screen. 
 
@@ -14,7 +17,7 @@ This version of the calculator is a great starting point for anyone looking to l
 
 ## Interface 
 
-![App Screenshot](https://raw.githubusercontent.com/gautham2k3/Calculator-JAVA/main/Samples/UI%20BASIC.png)
+<p align="center"><img src="https://raw.githubusercontent.com/gautham2k3/Calculator-JAVA/main/Samples/UI%20BASIC.png" alt="project-image"></p>
 
 The UI of a Java calculator can be themed dark by using a dark color palette for the background and text elements. The theme should also include a dark color for the buttons, as well as an appropriate font and font size. Additionally, the calculator should be designed to be easy-to-use and intuitive with an overall aesthetic that is consistent with the overall dark theme.
 
@@ -23,12 +26,11 @@ The UI of a Java calculator can be themed dark by using a dark color palette for
 
 ## Usage/Examples
 
-![App Working](https://raw.githubusercontent.com/gautham2k3/Calculator-JAVA/main/Samples/Test%2001.png)
-
-
+<p align="center"><img src="https://raw.githubusercontent.com/gautham2k3/Calculator-JAVA/main/Samples/Test%2001.png" alt="project-image"></p>
 
 ## Version
-![App Version](https://raw.githubusercontent.com/gautham2k3/Calculator-JAVA/main/Samples/Version%20Info.png)
+<p align="center"><img src="https://raw.githubusercontent.com/gautham2k3/Calculator-JAVA/main/Samples/Version%20Info.png" alt="project-image"></p>
+
 ## 🔗 Links
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/gautham2k3/)
