@@ -218,9 +218,10 @@ public class Calculator {
                 if(xx==1)
                     tD.setText("Dev. \"gαυтнαм\"   ");
                 else if(xx==2)
-                    tD.setText("<< Version 1.0 >> ");
-                else if(xx==3)
-                    tD.setText("  Git repo info  ");
+                    tD.setText("    << βeta Version  >> ");
+                else if(xx==3) {
+                    tD.setText(" gautham2k3  ");
+                }
                 else if(xx==4)
                 {
                     xx=0;

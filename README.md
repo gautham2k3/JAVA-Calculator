@@ -17,7 +17,7 @@ This version of the calculator is a great starting point for anyone looking to l
 
 ## Interface 
 
-<p align="center"><img src="https://raw.githubusercontent.com/gautham2k3/Calculator-JAVA/main/Samples/UI%20BASIC.png" alt="project-image"></p>
+<p align="center"><img src="Samples/Screenshot 2023-04-27 222000.png" alt="project-image"></p>
 
 The UI of a Java calculator can be themed dark by using a dark color palette for the background and text elements. The theme should also include a dark color for the buttons, as well as an appropriate font and font size. Additionally, the calculator should be designed to be easy-to-use and intuitive with an overall aesthetic that is consistent with the overall dark theme.
 
