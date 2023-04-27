@@ -341,7 +341,7 @@
           <text value="⌫"/>
         </properties>
       </component>
-      <component id="31082" class="javax.swing.JButton" binding="button3" default-binding="true">
+      <component id="31082" class="javax.swing.JButton" binding="square">
         <constraints>
           <grid row="2" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false">
             <minimum-size width="75" height="45"/>
@@ -353,7 +353,7 @@
           <background color="-12564663"/>
           <font name="Inter Semi Bold" size="26"/>
           <foreground color="-3492165"/>
-          <text value="Button"/>
+          <text value=" x²"/>
         </properties>
       </component>
       <component id="b3402" class="javax.swing.JButton" binding="bve">

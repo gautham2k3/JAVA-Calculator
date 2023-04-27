@@ -26,7 +26,7 @@ public class Calculator {
     private JButton a3Button;
     private JButton bDot;
     private JButton bpercntage;
-    private JButton button3;
+    private JButton square;
     private JButton button4;
     private JButton button1;
 
@@ -175,7 +175,9 @@ public class Calculator {
         bEqual.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-                b=Double.parseDouble(tD.getText());
+                if(op!="^2") {
+                    b=Double.parseDouble(tD.getText());
+                }
                 if(op=="+")
                 {
                     result=a+b;
@@ -199,6 +201,12 @@ public class Calculator {
                 else if(op=="%")
                 {
                     result=a*0.01*b;
+                    tD.setText(String.valueOf(result));
+                }
+                else if(op=="^2")
+                {
+                    b=1;
+                    result=a*a*b;
                     tD.setText(String.valueOf(result));
                 }
             }
@@ -226,6 +234,14 @@ public class Calculator {
             public void actionPerformed(ActionEvent e) {
                 a=Double.parseDouble(tD.getText());
                 op="%";
+                tD.setText("");
+            }
+        });
+        square.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                a=Double.parseDouble(tD.getText());
+                op="^2";
                 tD.setText("");
             }
         });
