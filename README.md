@@ -26,10 +26,10 @@ The UI of a Java calculator can be themed dark by using a dark color palette for
 
 ## Usage/Examples
 
-<p align="center"><img src="https://raw.githubusercontent.com/gautham2k3/Calculator-JAVA/main/Samples/Test%2001.png" alt="project-image"></p>
+<p align="center"><img src="Samples/Screenshot 2023-04-27 222000.png" alt="project-image"></p>
 
 ## Version
-<p align="center"><img src="https://raw.githubusercontent.com/gautham2k3/Calculator-JAVA/main/Samples/Version%20Info.png" alt="project-image"></p>
+<p align="center"><img src="Samples/Beta UI.png" alt="project-image"></p>
 
 ## 🔗 Links
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
