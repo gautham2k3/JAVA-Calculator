@@ -371,7 +371,7 @@
           <text value="+/-"/>
         </properties>
       </component>
-      <component id="6608e" class="javax.swing.JButton" binding="button1" default-binding="true">
+      <component id="6608e" class="javax.swing.JButton" binding="NAButton" default-binding="true">
         <constraints>
           <grid row="2" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false">
             <minimum-size width="75" height="45"/>
@@ -384,7 +384,7 @@
           <enabled value="false"/>
           <font name="Inter Semi Bold" size="24"/>
           <foreground color="-3492165"/>
-          <text value="Button"/>
+          <text value="NA"/>
         </properties>
       </component>
     </children>
