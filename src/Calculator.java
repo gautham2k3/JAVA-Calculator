@@ -28,7 +28,7 @@ public class Calculator {
     private JButton bpercntage;
     private JButton square;
     private JButton button4;
-    private JButton NAButton;
+    private JButton rootx;
 
     double a,b,result;
     int xx=0;
@@ -237,6 +237,14 @@ public class Calculator {
             public void actionPerformed(ActionEvent e) {
                 a=Double.parseDouble(tD.getText());
                 a*=a;
+                tD.setText(String.valueOf(a));
+            }
+        });
+        rootx.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                a=Double.parseDouble(tD.getText());
+                a=Math.sqrt(a);
                 tD.setText(String.valueOf(a));
             }
         });
